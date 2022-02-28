@@ -8,21 +8,6 @@ The coding exercise includes
 
 - Java 11 - for installation instructions see https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
 
-### Usage
-
-#### Windows
-
-In the root directory of the project run...
-```
-gradlew.bat bootRun
-```
-
-#### Ubuntu / macOS
-
-```
-./gradlew bootRun
-```
-
 ### REST API
 
 REWARD POINTS
